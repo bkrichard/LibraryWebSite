@@ -1,0 +1,5 @@
+C:\Users\brichard009211\Documents\Visual Studio 2010\Projects\BookReviewSite\BookReviewSite\bin\BookReviewSite.dll
+C:\Users\brichard009211\Documents\Visual Studio 2010\Projects\BookReviewSite\BookReviewSite\bin\BookReviewSite.pdb
+C:\Users\brichard009211\Documents\Visual Studio 2010\Projects\BookReviewSite\BookReviewSite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\brichard009211\Documents\Visual Studio 2010\Projects\BookReviewSite\BookReviewSite\obj\Debug\BookReviewSite.dll
+C:\Users\brichard009211\Documents\Visual Studio 2010\Projects\BookReviewSite\BookReviewSite\obj\Debug\BookReviewSite.pdb
